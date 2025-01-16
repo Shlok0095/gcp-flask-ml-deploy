@@ -1,5 +1,5 @@
-runtime: python38
 build:
   service_account: '[YOUR-SERVICE-ACCOUNT]'
   options:
-    default_logs_bucket_behavior: 'REGIONAL_USER_OWNED_BUCKET'  # This is generally the safest option
+    logging: 'CLOUD_LOGGING_ONLY'
+runtime: python38
