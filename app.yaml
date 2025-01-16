@@ -1,4 +1,4 @@
-runtime: python38
+runtime: python312
 build:
   service_account: chrome-ability-448018-j8@appspot.gserviceaccount.com
   options:
