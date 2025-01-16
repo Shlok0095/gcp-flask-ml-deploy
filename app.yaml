@@ -1,5 +1,5 @@
 runtime: python38
 build:
-  service_account: '[YOUR-SERVICE-ACCOUNT]'
+  service_account: chrome-ability-448018-j8@appspot.gserviceaccount.com
   options:
-    logging: 'CLOUD_LOGGING_ONLY'
+    logging: CLOUD_LOGGING_ONLY
