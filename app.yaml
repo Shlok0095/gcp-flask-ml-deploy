@@ -1,5 +1,5 @@
+runtime: python38
 build:
   service_account: '[YOUR-SERVICE-ACCOUNT]'
   options:
     logging: 'CLOUD_LOGGING_ONLY'
-runtime: python38
